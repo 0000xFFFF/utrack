@@ -1,4 +1,4 @@
-# YTthumb
+# utrack
 #### CPU & RAM Usage Watcher (C#, GUI - WinForms)
 
 # Download
